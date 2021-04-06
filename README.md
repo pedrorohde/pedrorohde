@@ -1,4 +1,12 @@
-### Hi there 👋
+### About me
+
+- 📊 Data Scientist from Brazil 🇧🇷
+- 🤓 Interested in: AI/ML/DS 🤖 | finance 💸 | quantum computing ⚛️ | travelling 🗺️ | films 🎥
+
+### Résumé
+
+- 🎓 MEng Signal & Image Processing 📈 @ [Institut National Polytechnique de Toulouse - ENSEEIHT 🇫🇷](https://www.enseeiht.fr/fr/index.html)
+- 🧑‍🎓 BEng Electronics 🔌 @ [Universidade Federal Federal de Santa Catarina 🇧🇷](https://en.ufsc.br/)
 
 <!--
 **pedrorohde/pedrorohde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
