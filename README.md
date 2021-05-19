@@ -15,7 +15,7 @@
 - 🎓 MEng Signal & Image Processing 📈 @ [Institut National Polytechnique de Toulouse - ENSEEIHT 🇫🇷](https://www.enseeiht.fr/fr/index.html) [_(recommendation letter)_](./recommendations/INP-ENSEEIHT.pdf)
 - 🧑‍🎓 BEng Electronics 🔌 @ [Universidade Federal Federal de Santa Catarina 🇧🇷](https://en.ufsc.br/)
 
-### Select repos
+### Select projects
 - [Functional Data Analysis: curve alignment tutorial](https://pedrorohde.github.io/landmark-registration/)
   - `statistics` `data analysis` `science communication`
 - [Inverse Problem: deconvolution of a sparse signal](https://github.com/pedrorohde/n7-inverse-problems)
