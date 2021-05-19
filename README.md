@@ -22,7 +22,7 @@
   - `statistics` `optimization` `monte carlo markov chain`
 - [Financial Math App](https://share.streamlit.io/pedrorohde/fin-math-app)
   - `finance`
-- [Deep Learning Video Compression: experiments with the FlowNet architecture](https://github.com/pedrorohde/flownet2-pytorch)
+- [Deep Learning Video Compression research: experiments with the FlowNet architecture](https://github.com/pedrorohde/flownet2-pytorch)
   - `deep learning` `video processing` `research` `pytorch`
 
 ### Trivia
