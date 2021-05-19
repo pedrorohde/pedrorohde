@@ -8,7 +8,7 @@
 - [🛰️ Airbus Intelligence](https://www.intelligence-airbusds.com/): R&D of time series analysis methods for precision agriculture 🌱 [_(recommendation letter)_](./recommendations/AIRBUS.pdf)
 - [💼 Macnica DHW](https://www.macnicadhw.com.br/): AI PoC projects in image recognition, machine learning 📷
 - [👨‍🏫 Einstein Floripa](https://einsteinfloripa.com.br/) (volunteer): handling data and analysis for hundreds of students and collaborators 📖
-- [🔬 Embedded Computing Lab](https://eclab.paginas.ufsc.br/): research assistant in deep learning for video compression 🧠
+- [🔬 Embedded Computing Lab](https://eclab.paginas.ufsc.br/): research assistant on deep learning for video compression 🧠
 
 ### Education
 
