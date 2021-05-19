@@ -15,11 +15,20 @@
 - 🎓 MEng Signal & Image Processing 📈 @ [Institut National Polytechnique de Toulouse - ENSEEIHT 🇫🇷](https://www.enseeiht.fr/fr/index.html) [_(recommendation letter)_](./recommendations/INP-ENSEEIHT.pdf)
 - 🧑‍🎓 BEng Electronics 🔌 @ [Universidade Federal Federal de Santa Catarina 🇧🇷](https://en.ufsc.br/)
 
+### Select repos
+- [Functional Data Analysis: curve alignment tutorial](https://pedrorohde.github.io/landmark-registration/)
+  - `statistics` `data analysis` `science communication`
+- [Inverse Problem: deconvolution of a sparse signal](https://github.com/pedrorohde/n7-inverse-problems)
+  - `statistics` `optimization` `monte carlo markov chain`
+- [Financial Math App](https://share.streamlit.io/pedrorohde/fin-math-app)
+  - `finance`
+- [Deep Learning Video Compression: experiments with the FlowNet architecture](https://github.com/pedrorohde/flownet2-pytorch)
+  - `deep learning` `video processing` `research` `pytorch`
+
 ### Trivia
-- 🌐 I have visited over 20 countries: [some pictures](./)
+- 🌐 I have visited over 20 countries<!--: [some pictures](./)-->
 - 🎬 I have a Letterboxd account: [pedrohde](https://letterboxd.com/pedrohde/)
 - 💬 I speak four languages: 🇧🇷 🇬🇧 🇫🇷 🇪🇸
-- 🍕 I like pizza
 
 <!--
 **pedrorohde/pedrorohde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
