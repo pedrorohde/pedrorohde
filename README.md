@@ -16,6 +16,8 @@
 - 🧑‍🎓 BEng Electronics 🔌 @ [Universidade Federal Federal de Santa Catarina 🇧🇷](https://en.ufsc.br/)
 
 ### Select projects
+- [Master's Thesis on Agricultural Time Series Analysis](./masters.md)
+  - `time series` `data science` `agriculture` `remote sensing`
 - [Functional Data Analysis: curve alignment tutorial](https://pedrorohde.github.io/landmark-registration/)
   - `statistics` `data analysis` `science communication`
 - [Inverse Problem: deconvolution of a sparse signal](https://github.com/pedrorohde/n7-inverse-problems)
