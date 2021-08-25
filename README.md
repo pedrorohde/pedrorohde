@@ -31,4 +31,5 @@
 - 🌐 I have visited over 20 countries: [some pictures](./pics/README.md)
 - 🎬 I have a Letterboxd account: [pedrohde](https://letterboxd.com/pedrohde/)
 - 💬 I speak four languages: 🇧🇷 🇬🇧 🇫🇷 🇪🇸
+- 👥 My LinkedIn profile: [pedrorohde](https://www.linkedin.com/in/pedrorohde/)
 
