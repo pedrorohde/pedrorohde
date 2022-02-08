@@ -3,8 +3,9 @@
 - 📊 Data Scientist from Brazil 🇧🇷
 - 🤓 Interested in: AI/ML/DS 🤖 | finance 💸 | quantum computing ⚛️ | travelling 🗺️ | films 🎥
 
-### Work as a data scientist
+### Work
 
+- [🟪 Shift Technology](https://www.shift-technology.com/) (current): software for insurance fraud detection with AI (see also [@pedro-rohde-shift](https://github.com/pedro-rohde-shift)) 🕵️
 - [🛰️ Airbus Intelligence](https://www.intelligence-airbusds.com/): R&D of time series analysis methods for precision agriculture 🌱 [_(recommendation letter)_](./recommendations/AIRBUS.pdf)
 - [💼 Macnica DHW](https://www.macnicadhw.com.br/): AI PoC projects in image recognition, machine learning 📷
 - [👨‍🏫 Einstein Floripa](https://einsteinfloripa.com.br/) (volunteer): handling data and analysis for hundreds of students and collaborators 📖
