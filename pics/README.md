@@ -1,3 +1,10 @@
+# BRAZIL 🇧🇷
+
+## Lagoinha do Leste
+
+![lagoinha-do-leste](./lagoinha-do-leste.jpg)
+
+
 # FRANCE 🇫🇷
 
 ## Calanques de Cassis
@@ -34,6 +41,10 @@
 ![toulouse1](./toulouse1.jpg)
 
 ![toulouse2](./toulouse2.jpg)
+
+## Paris
+
+![paris](./paris.jpg)
 
 ## Lille
 
