@@ -1,7 +1,7 @@
 ### About me
 
 - 📊 Data Scientist from Brazil 🇧🇷
-- 🤓 Interested in: AI/ML/DS 🤖 | finance 💸 | quantum computing ⚛️ | travelling 🗺️ | films 🎥
+- 🤓 Interested in: AI/ML/DL/DS 🤖 | travelling 🗺️ | films 🎥
 
 ### Work
 
@@ -13,6 +13,7 @@
 
 ### Education
 
+- 🎓 MSc [Mathematics, Vision, Learning (MVA) 👁️](https://www.master-mva.com/) @ [ENS Paris-Saclay](https://ens-paris-saclay.fr/en) / [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en/news/2022-shanghai-ranking-third-consecutive-year-universite-paris-saclay-remains-global-top-20) 🇫🇷
 - 🎓 MEng Signal & Image Processing 📈 @ [Institut National Polytechnique de Toulouse - ENSEEIHT 🇫🇷](https://www.enseeiht.fr/fr/index.html) [_(recommendation letter)_](./recommendations/INP-ENSEEIHT.pdf)
 - 🧑‍🎓 BEng Electronics 🔌 @ [Universidade Federal Federal de Santa Catarina 🇧🇷](https://en.ufsc.br/)
 
